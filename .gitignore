@@ -1,1 +1,4 @@
-env
+gui/env
+gui/node_modules
+gui/__pycache__
+.DS_Store
