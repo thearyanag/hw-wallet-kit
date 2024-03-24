@@ -1,7 +1,7 @@
 import sys
 from communication import Communication
 
-# ser = Communication()
+ser = Communication()
 
 import sys
 import sys

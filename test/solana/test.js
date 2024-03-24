@@ -1,7 +1,7 @@
 const {PublicKey, Keypair} = require('@solana/web3.js');
 const bs58 = require('bs58');
 
-// Example hex strings for private and public keys
+// Example hex strings for private and public keys - do not use these in production
 let privateKeyHex = '5FAD680B14B3F68410F57088F048B3208D9E57B103C8B6B587FC863243722342';
 let publicKeyHex = '2823B5420A4299C4C7A8C801448E589F8C7F653C2517D1A2C89943E84B98C16D';
 
